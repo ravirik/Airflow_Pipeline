@@ -1,0 +1,1001 @@
+model,brand,Category,year,price
+3500 Crew Cab,Nissan,SUV,2006,9892472
+Park Avenue,Dodge,Coupe,2013,3479845
+Monaco,Chevrolet,Wagon,1992,14933252
+Passat,Isuzu,"Sedan, Wagon",1993,14384575
+M5,Toyota,SUV,1993,5156078
+Grand Cherokee,Dodge,"Hatchback, Sedan",2019,10311361
+911,Jeep,Wagon,2004,8903509
+928,Bentley,Hatchback,2002,5810665
+F350 Super Duty Super Cab,Toyota,Pickup,2000,13407069
+Titan King Cab,Aston Martin,Pickup,1997,6952112
+MKX,Cadillac,SUV,2017,1188589
+Caravan Passenger,Toyota,Van/Minivan,2015,3373083
+Quest,Toyota,Sedan,1994,6783753
+Sonata,Freightliner,Sedan,2010,11615109
+H1,GMC,SUV,2010,4049803
+Club Wagon,Honda,SUV,2016,3910685
+TrailBlazer,Volkswagen,SUV,2014,2853297
+Ram 1500 Quad Cab,Chevrolet,Van/Minivan,2011,12484440
+L-Series,GMC,Pickup,2004,12941785
+Outback,Subaru,SUV,1993,14672207
+CX-9,Kia,"Convertible, Sedan, Coupe",2008,10648585
+TT,Acura,"Wagon, Convertible, Sedan",1994,7268430
+6 Series,BMW,"Coupe, Convertible",2000,7552921
+MAZDA6,Chevrolet,Van/Minivan,2008,6504657
+Golf GTI,GMC,Sedan,2017,1945189
+Yukon XL 2500,Lincoln,"Convertible, Coupe",2004,6970972
+Intrepid,Ford,Wagon,2000,12240967
+Firebird,GMC,Sedan,2006,12621048
+BRZ,Mercedes-Benz,Sedan,1993,7359528
+Hardtop,Chevrolet,"Coupe, Sedan",1996,12177170
+Camry Hybrid,INFINITI,SUV,2017,13852372
+Accord,Land Rover,Pickup,2020,7147102
+Grand Caravan Passenger,Ford,Sedan,2002,8849874
+Transit 250 Van,Ferrari,Pickup,2011,6492736
+Prius,Lincoln,"Coupe, Convertible",1998,8042317
+X-Type,Hyundai,Sedan,2009,4896680
+Civic,Plymouth,Coupe,2004,10476662
+Astro Cargo,Ford,Coupe,1995,814765
+Boxster,Cadillac,Pickup,2008,12047828
+Fit,INFINITI,Pickup,2001,1981615
+2500 HD Extended Cab,Dodge,Sedan,2016,8558492
+Town & Country,Chevrolet,SUV,2018,14093635
+Echo,Subaru,Coupe,2007,10079525
+Equinox,Kia,Pickup,2011,7860641
+GS,Ram,"Sedan, Hatchback",2008,2811407
+Jetta,Lincoln,"Coupe, Convertible",2019,6835919
+Volt,GMC,Van/Minivan,2000,10652209
+Express 2500 Cargo,Acura,Pickup,2000,8220920
+Verona,Lexus,Pickup,2000,3649196
+B-Series Cab Plus,Toyota,Hatchback,2003,14244116
+Express 1500 Passenger,Chevrolet,SUV,2005,1112053
+IS F,GMC,Pickup,2001,3860290
+Q,Maserati,"SUV, Wagon",2007,11843063
+F150 SuperCrew Cab,Mitsubishi,Pickup,2009,10053207
+B-Series Cab Plus,Volkswagen,Pickup,2016,5631261
+300 SD,Jeep,SUV,2020,10743057
+Silverado 1500 Double Cab,Toyota,Hatchback,2003,13180550
+Ram 3500 Regular Cab,Volvo,"Convertible, Coupe",2017,14037635
+Sierra 2500 HD Crew Cab,Honda,"Coupe, Sedan",1995,5759061
+CC,Nissan,SUV,1992,12547334
+fortwo,Honda,SUV,2016,6054135
+Navigator,MINI,Van/Minivan,1997,2124831
+S-Class,Chrysler,Sedan,2017,4331154
+Sprinter 3500 Cargo,Dodge,"Sedan, Wagon",2001,1314554
+3500 Club Coupe,Buick,"Convertible, Coupe",1996,14468089
+Sebring,Kia,Sedan,2011,13710534
+Sprinter 3500 Cargo,Chevrolet,Van/Minivan,2012,8892347
+S5,Ford,Convertible,1993,9523390
+Vibe,Ford,Convertible,2018,10108020
+911,Pontiac,Sedan,1997,6761836
+Colt,Mitsubishi,Van/Minivan,2014,13188621
+Safari Cargo,Dodge,Sedan,1997,5408057
+Sequoia,Ford,Pickup,2012,8387836
+Jimmy,Dodge,Van/Minivan,1994,12699877
+S5,Plymouth,Sedan,2009,4809505
+Ram Wagon 1500,Mercedes-Benz,SUV,2017,5048743
+Montero,Mercedes-Benz,SUV,2008,11614656
+Rogue,Chevrolet,Van/Minivan,2020,14370624
+Express 1500 Cargo,Dodge,Pickup,1994,7055992
+XK,Acura,Pickup,2017,4655567
+RS 5,Chevrolet,SUV,2012,5482315
+Grand Cherokee,BMW,Van/Minivan,2009,13281004
+RAV4,Bentley,SUV,2010,12202874
+CL,Lexus,Sedan,1997,1612380
+Tacoma Double Cab,Subaru,Van/Minivan,1994,2544183
+Expo,Hyundai,Sedan,1997,960555
+LX,INFINITI,Van/Minivan,1994,9139034
+Colorado Crew Cab,GMC,Sedan,1995,7792348
+CR-Z,GMC,Pickup,2008,1220032
+R8,Honda,Sedan,1999,905641
+Rio,Mercedes-Benz,SUV,1997,1262781
+Sedona,Volvo,SUV,2010,2945610
+Sprinter 2500 Cargo,Toyota,SUV,2018,10859704
+Golf,Chevrolet,SUV,2017,2699369
+Veloster,INFINITI,Sedan,1998,1129971
+62,Isuzu,Sedan,2011,14110856
+ES,MAZDA,"Hatchback, Sedan",2009,11216779
+Impreza,GMC,Sedan,1992,5392795
+370Z,Chrysler,SUV,2012,12092629
+Grand Voyager,Chevrolet,"Sedan, Hatchback",1998,5274247
+GS,Acura,"Sedan, Hatchback",2017,2524052
+Sierra 2500 HD Regular Cab,Pontiac,Pickup,1994,4271781
+Fit,Toyota,Sedan,2017,10065757
+Liberty,INFINITI,SUV,2012,3377347
+WRX,MINI,Van/Minivan,2006,8037350
+5 Series,Chevrolet,SUV,2013,11898072
+Paseo,BMW,Sedan,2011,14716935
+Suburban 1500,Dodge,Wagon,1998,14206210
+3500 Regular Cab,Dodge,"Wagon, Sedan",2017,3274201
+S8,Toyota,SUV,2018,12116708
+Mercedes-AMG SLC,MAZDA,Coupe,2009,4064556
+Sierra 1500 Regular Cab,Jaguar,Sedan,2003,4152798
+S10 Extended Cab,Dodge,Sedan,2019,12106746
+Silverado 3500 Extended Cab,Chevrolet,Sedan,1997,12621226
+Rodeo,Volvo,"Sedan, Wagon, Coupe",2019,1332469
+Suburban 2500,Toyota,"Convertible, Sedan, Coupe, Wagon",2019,10109966
+5 Series,Ford,Pickup,2014,8088915
+RLX,Toyota,Sedan,2008,14313641
+ILX,Plymouth,Sedan,1992,4402565
+Elantra,BMW,Pickup,2011,10734777
+S60,Freightliner,Sedan,2007,2596778
+Savana 3500 Passenger,Mercedes-Benz,Pickup,1994,4201000
+Mighty Max Macro Cab,GMC,SUV,2011,5904494
+GT-R,Acura,Sedan,1995,9385590
+Fleetwood,Jaguar,Pickup,1994,12110525
+F250 Super Duty Crew Cab,Ford,Van/Minivan,1996,3417201
+Spacecab,Hyundai,Sedan,1995,7037654
+Ascent,Bentley,Sedan,2009,6074249
+Sierra 1500 HD Crew Cab,Chevrolet,SUV,2017,1941137
+Range Rover Velar,Dodge,Coupe,1997,12209360
+911,Mercury,Convertible,2020,11737142
+Roadmaster,Chevrolet,Van/Minivan,1993,13574009
+A8,Suzuki,"Hatchback, Convertible",2006,13790837
+Aura,Dodge,"Sedan, Wagon",2014,5092780
+Montero,Honda,Hatchback,2011,13005780
+Flex,Nissan,Van/Minivan,2002,1740186
+Altima,Acura,Sedan,2019,2519224
+Crown Victoria,Chevrolet,SUV,2013,7340939
+Hardtop 2 Door,Bentley,Coupe,2020,14322261
+Trooper,Nissan,"Coupe, Sedan",1997,2832714
+Sprinter WORKER Passenger,Suzuki,Pickup,2016,11844969
+SSR,Chevrolet,Van/Minivan,2017,4634960
+Camry,Oldsmobile,Van/Minivan,2016,5516700
+Z3,Mercedes-Benz,Sedan,1992,6821936
+911,Chevrolet,Pickup,2000,8427024
+Avalanche 1500,Audi,SUV,1994,1627346
+Forte,Chrysler,Sedan,1995,3600604
+Caravan Passenger,Volvo,"Coupe, Convertible",1995,2360326
+Express 2500 Cargo,Ford,"Sedan, Hatchback",1997,14497480
+Escape,Ford,SUV,2004,7737415
+S90,Chrysler,"Sedan, Wagon",2020,2783084
+Accent,Jaguar,"Hatchback, Convertible",2005,3604320
+Ram Wagon 2500,Dodge,Pickup,2017,7303233
+Corolla iM,Mercedes-Benz,"Coupe, Convertible",2019,2758685
+Galant,Volkswagen,Coupe,2003,9982514
+Transit Connect Passenger,Dodge,Sedan,2017,14175476
+MX-5 Miata,Chrysler,Hatchback,2009,13244112
+Tiburon,INFINITI,"Coupe, Convertible",2004,3139822
+Acadia,Kia,SUV,2010,9074956
+Envoy,Chevrolet,Van/Minivan,2019,4210056
+Safari Cargo,Mercury,Sedan,2017,4844209
+MKS,Toyota,Van/Minivan,2009,13214784
+Elantra GT,Lexus,Van/Minivan,2015,12301551
+Equus,Lexus,"Wagon, Sedan",2007,11740456
+Pathfinder,Plymouth,Pickup,2012,3193911
+F250 Super Duty Crew Cab,Lincoln,SUV,2017,4093165
+Ram 3500 Quad Cab,MAZDA,SUV,2017,3591011
+Navigator L,Maserati,Coupe,2003,7133150
+Safari Cargo,Chevrolet,Sedan,2007,9471591
+Montego,Acura,Sedan,2006,11839007
+Ranger Super Cab,Acura,"Wagon, Sedan",2011,4023211
+Catera,Dodge,Hatchback,1997,5122730
+Pathfinder,Chevrolet,SUV,2012,13676254
+Elise,Chevrolet,Sedan,1994,4837625
+D150 Regular Cab,Volvo,SUV,2005,12338391
+Regal,Dodge,Coupe,2012,11791083
+XJ,GMC,Coupe,1999,8071933
+SLX,Kia,Van/Minivan,2018,5968186
+400 E,Ford,Van/Minivan,2001,3458579
+i8,BMW,Pickup,2008,2678948
+Econoline E150 Cargo,Mercury,Convertible,1995,7061209
+F150 Regular Cab,Freightliner,SUV,2003,11994607
+S10 Extended Cab,Subaru,Pickup,1995,5775072
+B-Series Regular Cab,Nissan,Sedan,2016,4474052
+Tundra Regular Cab,Ford,Sedan,1995,5709368
+TSX,BMW,Sedan,2013,6296179
+Cherokee,INFINITI,"Convertible, Coupe",1995,13359517
+SLK-Class,BMW,Sedan,2017,994178
+Suburban 2500,Toyota,SUV,2000,13925897
+Corolla,Dodge,SUV,2018,2433986
+Grand Caravan Cargo,Cadillac,Pickup,1996,10088054
+Legacy,Cadillac,Pickup,2020,10316418
+Xterra,Saturn,"Coupe, Convertible",2012,12247592
+Mirage,Subaru,Van/Minivan,1994,7929781
+Civic,Volkswagen,Sedan,1999,8298002
+Sprinter 3500 XD Cargo,Land Rover,SUV,2019,6574419
+F150 Regular Cab,Toyota,Sedan,2000,3609975
+RAV4,GMC,"Coupe, Convertible",2017,5406186
+F350 Regular Cab,MAZDA,SUV,2007,1257819
+Stinger,Mercedes-Benz,Sedan,1998,8853012
+Colorado Crew Cab,Cadillac,Pickup,2012,13033311
+Rogue,Subaru,Sedan,1993,3394279
+Range Rover,Dodge,Pickup,1996,885077
+Regular Cab,Dodge,SUV,2016,656412
+Festiva,Scion,"Sedan, Wagon",2011,14938488
+MAZDA2,Dodge,Van/Minivan,2013,6415942
+Corolla,GMC,Van/Minivan,2018,11397976
+5-Sep,GMC,Sedan,2014,3782211
+S-Class,Chevrolet,Sedan,2006,11029440
+E150 Super Duty Passenger,BMW,Hatchback,2004,6151682
+Ram 2500 Regular Cab,Mercury,Pickup,2014,4873524
+Suburban 1500,Lotus,SUV,2007,13112986
+Quattroporte,Mercury,Coupe,1992,2093759
+Sprinter WORKER Cargo,Ford,Sedan,2019,1070590
+Tacoma Double Cab,Oldsmobile,SUV,2017,4318756
+4Runner,Chevrolet,Van/Minivan,2012,14107792
+Grand Cherokee,Lotus,SUV,2017,12869764
+4Runner,Chevrolet,"Convertible, Coupe",2004,13103004
+S6,Ford,Sedan,2013,14059422
+Maxima,Nissan,Hatchback,1996,14294489
+Yaris,Toyota,Hatchback,2003,607032
+Model S,GMC,"Coupe, Convertible",2002,1219123
+Escort,Mercedes-Benz,SUV,2012,1513267
+Tiguan,MINI,SUV,1994,4649326
+Land Cruiser,Mercedes-Benz,Van/Minivan,2018,13251142
+Enclave,Mercedes-Benz,Pickup,2010,3770429
+Aerostar Passenger,Toyota,SUV,1993,12593306
+626,GMC,Van/Minivan,2000,8107285
+Range Rover Sport,Chevrolet,Convertible,2017,3162950
+Sonoma Extended Cab,GMC,Sedan,2012,6834179
+Bronco,Saturn,SUV,2013,11593812
+SL-Class,Honda,SUV,1999,4326434
+Forte Koup,Ford,SUV,2006,14298343
+Paseo,Ford,SUV,2016,14517011
+Express 1500 Passenger,Ford,Sedan,2017,5482862
+Tucson,Hyundai,"Hatchback, Sedan",2001,971196
+LS,Toyota,Convertible,1999,11189635
+Tucson,Volkswagen,Pickup,2019,8431465
+Sunfire,Hyundai,Convertible,1999,7393313
+Discovery Series II,BMW,Van/Minivan,2000,6383994
+Fleetwood,Lexus,SUV,1993,7480162
+E-Class,Chevrolet,Pickup,1996,8402210
+X5,Chrysler,Sedan,2012,9514341
+Suburban 2500,Lexus,Pickup,2012,12345591
+X-Type,Nissan,"Sedan, Convertible",2006,3798984
+EcoSport,Hyundai,Pickup,2017,13761153
+LS,Chevrolet,Pickup,1994,14570748
+Celica,Chevrolet,Sedan,2010,1719472
+Camry Hybrid,Chevrolet,"Sedan, Hatchback",2003,12895258
+S4,BMW,SUV,2001,7791224
+F250 Super Duty Crew Cab,Volvo,Convertible,2001,14957828
+Forte,Nissan,SUV,2016,13547255
+Range Rover Sport,Chevrolet,SUV,1993,645157
+Rio,Ford,"Coupe, Convertible",2007,2295449
+Legacy,INFINITI,SUV,1992,5450724
+164,Nissan,Sedan,2004,2131916
+Canyon Regular Cab,Hyundai,SUV,1999,3074686
+Suburban,Toyota,Wagon,2020,6701075
+Sprinter 2500 Crew,Porsche,Pickup,2013,14547909
+C70,McLaren,SUV,2001,1055185
+Aerio,Dodge,"Sedan, Wagon",1995,9237594
+Montana,Volvo,Pickup,2012,11843742
+A4 allroad,Chevrolet,Sedan,2008,11238038
+570GT,Chevrolet,Wagon,2005,2123097
+Tacoma Access Cab,Lotus,"Hatchback, Coupe, Convertible",1992,7880922
+MX-6,GMC,Coupe,2003,8702968
+Navigator,MAZDA,"Sedan, Convertible",2019,6470330
+Sportage,Lincoln,SUV,1999,3400386
+Silverado 1500 Crew Cab,Bentley,SUV,2001,14621599
+XLR,GMC,"Coupe, Convertible",2009,5642569
+3500 Extended Cab,Alfa Romeo,Convertible,2004,2274090
+Savana 2500 Cargo,Ram,Pickup,2014,12728506
+Virage,Dodge,Pickup,1995,7521300
+xB,MINI,SUV,2018,12595834
+Escape,Oldsmobile,Pickup,1998,7121576
+7 Series,Daewoo,Van/Minivan,1999,4084978
+Ram 1500 Club Cab,INFINITI,"Coupe, Convertible",1998,3295319
+GL-Class,Kia,Coupe,1993,14244936
+Cutlass Ciera,Honda,Hatchback,2006,13537448
+Rodeo Sport,Toyota,SUV,2014,3736764
+LeMans,Mercedes-Benz,Sedan,1998,6370751
+Mustang,Mercedes-Benz,"Hatchback, Coupe, Convertible",2017,11990568
+F350 Super Duty Crew Cab,MINI,Van/Minivan,2000,11816800
+Cougar,Dodge,"Sedan, Wagon",2001,5314505
+Outlander Sport,Oldsmobile,Hatchback,2015,11914586
+Express 3500 Passenger,Toyota,Sedan,2014,10094979
+XC70,Chevrolet,"Sedan, Coupe",2017,13546795
+3500 Club Coupe,Audi,"Sedan, Wagon",1996,7561864
+Altima,Chevrolet,SUV,2006,12989075
+Bolt EV,Ford,SUV,2020,873769
+500e,Dodge,Pickup,2010,6829368
+Camry,Nissan,Sedan,2016,6187522
+E350 Super Duty Passenger,Volkswagen,"Sedan, Hatchback",2016,12325093
+A6,Dodge,"Convertible, Coupe",1997,5131277
+NV2500 HD Cargo,Plymouth,SUV,1992,12401164
+Telluride,GMC,Sedan,2018,12099139
+Equus,Chevrolet,Van/Minivan,2016,6203609
+300ZX,Toyota,Pickup,2000,6213375
+6 Series,Eagle,Sedan,2013,5247477
+LX,Honda,Coupe,1997,4327761
+Freestar Cargo,Subaru,Van/Minivan,1993,8352300
+Rio,Lincoln,Van/Minivan,2008,13398445
+i-MiEV,Kia,Pickup,2019,12736558
+CR-V,Audi,Van/Minivan,2015,10969672
+Outlander,GMC,"Coupe, Convertible, Sedan",2010,13757411
+Sierra (Classic) 2500 HD Crew Cab,Lincoln,"Wagon, Sedan, Hatchback",2002,3974761
+Phantom,Ford,Pickup,1999,5002657
+Metris Cargo,Saab,Sedan,1997,2300171
+Caravan Passenger,Ferrari,Van/Minivan,2004,8699456
+CX-3,Chevrolet,SUV,2005,885143
+Camry Hybrid,Chevrolet,Pickup,2005,3793829
+Silverado 2500 HD Crew Cab,BMW,Pickup,2003,706406
+Tracker,Audi,SUV,2015,14753953
+Sienna,Audi,Van/Minivan,2018,1105551
+98,Kia,"Sedan, Coupe",2019,5105633
+Traverse,Oldsmobile,Sedan,2000,3742502
+Outlander Sport,Chevrolet,Van/Minivan,1999,5609447
+Canyon Regular Cab,Volkswagen,Pickup,2009,13995703
+Arnage,Nissan,Sedan,2010,14292166
+Eldorado,Audi,"Sedan, Hatchback",2011,2370617
+2500 Crew Cab,Chevrolet,Sedan,2001,12866206
+RDX,Volkswagen,SUV,2010,11010257
+Xterra,Plymouth,Sedan,2007,5303582
+F250 Super Duty Regular Cab,Lexus,Van/Minivan,2002,2337039
+Viper,Ford,SUV,2020,5469130
+Focus,Mitsubishi,Pickup,2007,5010591
+S-Class,Audi,SUV,2008,8844425
+MKT,Subaru,"Coupe, Sedan",2000,6211073
+Dawn,Eagle,SUV,2018,2525848
+Sonoma Extended Cab,Lamborghini,Pickup,2005,4877545
+Ram 2500 Regular Cab,Toyota,Sedan,2012,5671858
+Ranger Regular Cab,Honda,Convertible,2011,3237589
+A4 allroad,Ram,Pickup,2007,4458881
+S5,Eagle,"Convertible, Hatchback",2017,7192040
+911,Audi,"Coupe, Convertible",2016,13587335
+Sierra 3500 HD Crew Cab,Nissan,Van/Minivan,2019,6647306
+F350 Super Duty Super Cab,Jeep,Convertible,2001,11358420
+F250 Super Duty Regular Cab,Toyota,Pickup,2001,13570634
+Rogue,Volkswagen,Sedan,2004,11304245
+Thunderbird,Porsche,Hatchback,2018,2205917
+Discovery Sport,Acura,Van/Minivan,2011,11320325
+F150 Super Cab,Dodge,Van/Minivan,2016,7054305
+Santa Fe,Dodge,"Hatchback, Convertible",2002,11295752
+Mountaineer,Honda,SUV,2008,5587071
+Shadow,Daewoo,Hatchback,2010,10935018
+Hombre Regular Cab,Hyundai,Pickup,2017,2021129
+Aerio,Chrysler,Sedan,2008,11648214
+Caravan Passenger,Buick,Sedan,2014,14276943
+RAV4,Hyundai,SUV,2015,8029048
+S10 Extended Cab,Hyundai,Van/Minivan,2006,12584166
+Tahoe,Chevrolet,Sedan,2005,4021382
+Express 2500 Cargo,MAZDA,Convertible,2002,3553563
+Frontier Regular Cab,Audi,Coupe,2019,13710825
+C-MAX Energi,Dodge,SUV,2017,8585519
+Ram Van B350,Chevrolet,"Sedan, Wagon",2018,13107074
+Contour,Saab,Convertible,2018,6286867
+Lumina,MAZDA,"Coupe, Convertible",2020,7324455
+Safari Cargo,Cadillac,Pickup,2004,3753546
+1500 Club Coupe,Chevrolet,Van/Minivan,1994,4857821
+Sonata,Audi,Coupe,2018,9768910
+Blazer,Land Rover,Sedan,2017,10163684
+NV1500 Cargo,Lincoln,SUV,2002,969256
+Sienna,Geo,SUV,2006,11924758
+Sprinter 3500 Cargo,Lexus,Pickup,1997,14942361
+Torrent,Mitsubishi,Sedan,2018,9439532
+Express 1500 Passenger,Dodge,Van/Minivan,2013,10315237
+8 Series,Isuzu,SUV,1998,4544399
+Ascender,Eagle,Wagon,2007,6453989
+Model X,Honda,Wagon,1994,1949909
+Santa Fe Sport,Nissan,"Sedan, Hatchback",2014,12759029
+Sierra 2500 Regular Cab,GMC,Pickup,2018,7263477
+X6,Hyundai,Van/Minivan,1999,9032214
+Golf SportWagen,GMC,Sedan,2018,7357433
+Vantage,Porsche,SUV,2001,7608084
+Convertible,Ford,SUV,1994,5187459
+XK,Chevrolet,"Coupe, Convertible",2007,10485598
+Tahoe,Jaguar,Pickup,2019,3230988
+Sprinter 2500 Cargo,Jaguar,Pickup,2005,7758682
+Town & Country,Subaru,"Sedan, Coupe",1997,4740279
+Transit Connect Passenger,Nissan,Pickup,2016,11582917
+Summit,Hyundai,Convertible,2014,6516372
+V50,Mitsubishi,SUV,2018,14775053
+CC,Lexus,Sedan,2002,2101226
+Tribute,Jeep,Sedan,2015,8940519
+Sable,Hyundai,Sedan,2009,1674090
+New Yorker,Buick,SUV,2019,3588741
+Rainier,GMC,SUV,2001,14434056
+F350 Super Duty Super Cab,Dodge,SUV,2008,7925144
+Tahoe,BMW,"Convertible, Hatchback",2010,7197204
+7 Series,Audi,Wagon,2002,1933697
+NV3500 HD Passenger,smart,Sedan,2002,616184
+Silverado 2500 HD Regular Cab,Chevrolet,"Coupe, Convertible",2000,14868471
+Jetta,Dodge,Hatchback,2017,2568198
+Civic,Ford,"Convertible, Coupe",2017,2844891
+F350 Super Duty Crew Cab,Ford,SUV,2001,5130965
+S80,BMW,SUV,1999,7800247
+Grand Caravan Passenger,Ferrari,"Sedan, Hatchback",2006,7060644
+NV1500 Cargo,Honda,Van/Minivan,2001,13581591
+Millenia,Chevrolet,SUV,1995,10498572
+B-Series Regular Cab,MINI,SUV,1994,6767028
+Rio,Kia,Sedan,2004,4695276
+G80,GMC,SUV,2004,7028867
+Savana 3500 Passenger,McLaren,Coupe,2002,14151796
+LaCrosse,Dodge,Coupe,2003,2342201
+Charger,Chevrolet,Coupe,2015,7005801
+IS,Nissan,Hatchback,2009,13081836
+Enclave,Nissan,Sedan,2017,1112609
+Ram 2500 Club Cab,Ford,Sedan,2016,12354608
+Mighty Max Regular Cab,Acura,Hatchback,2019,14033999
+612 Scaglietti,Buick,SUV,2016,9084648
+Econoline E250 Cargo,Hyundai,SUV,2012,2652692
+X1,BMW,Pickup,2010,3172614
+Suburban 2500,Subaru,Hatchback,2001,8019503
+Cabrio,FIAT,Pickup,2001,12621903
+Econoline E150 Cargo,GMC,Pickup,2018,4452604
+S-Class,Acura,Sedan,2005,7250695
+SLR McLaren,Hyundai,Van/Minivan,1995,10220527
+Maxima,Buick,Coupe,2009,10956204
+F350 Super Duty Crew Cab,Ram,Sedan,2016,14155172
+Silverado 3500 Regular Cab,GMC,Hatchback,1993,1107645
+XC90,Toyota,Wagon,2007,3657522
+Express 1500 Cargo,Chevrolet,Van/Minivan,2018,11337495
+R-Class,Buick,Van/Minivan,2015,8917432
+Express 3500 Cargo,Ford,Sedan,2019,8176638
+Express 3500 Passenger,Ford,Pickup,2009,12290168
+Mercedes-AMG CLA,Hyundai,Pickup,2018,9420543
+Express 2500 Passenger,Dodge,Sedan,1996,12776271
+DBS,Dodge,Wagon,1992,9305300
+1500 Crew Cab,Ford,Pickup,2005,12001146
+F430,Chevrolet,Pickup,2019,3975216
+4Runner,Kia,Van/Minivan,2012,3747735
+Previa,Chrysler,Pickup,1994,13712763
+F250 Super Duty Crew Cab,Honda,Sedan,1998,10871951
+Escalade ESV,Kia,Van/Minivan,2013,11420273
+Navigator L,Jeep,SUV,2018,3815524
+Grand Prix,GMC,Van/Minivan,1999,9337898
+Tundra Double Cab,Kia,Van/Minivan,1998,12061684
+Crown Victoria,MAZDA,Convertible,1997,7528980
+RAV4,Subaru,Convertible,2000,11055710
+1500 Extended Cab,Ford,Sedan,2005,656486
+Mirage,INFINITI,Pickup,1996,12788912
+Sedona,Nissan,Pickup,2015,8749154
+Mulsanne,Chevrolet,SUV,2009,13846139
+Grand Am,Mercedes-Benz,Sedan,2012,7176549
+Integra,Pontiac,SUV,2017,3033358
+Bronco,Nissan,"Wagon, Sedan",2010,9955564
+940,Toyota,Hatchback,2016,9439727
+Dakota Club Cab,GMC,Sedan,2010,4975308
+Caravan Passenger,Chrysler,SUV,1998,2790636
+MX-5 Miata,Nissan,Sedan,2019,11772314
+Maxima,Dodge,"Sedan, Wagon",2000,11162889
+Swift,Acura,Sedan,1999,1466825
+5 Series,Mitsubishi,Sedan,1993,12573289
+Econoline E150 Passenger,Hyundai,"Sedan, Coupe",2010,12376342
+Land Cruiser,BMW,Sedan,1993,2271747
+Cayman,BMW,Van/Minivan,2014,10344660
+T100 Xtracab,GMC,Van/Minivan,2005,10872449
+TT,Hyundai,Van/Minivan,2010,14236944
+Sportvan G30,Toyota,"Sedan, Convertible",2020,1193789
+PT Cruiser,BMW,Pickup,2020,5378357
+500e,MINI,Pickup,2016,10086399
+Safari Cargo,Ram,Wagon,2000,1454553
+Avalanche,Acura,SUV,2018,6921597
+Talon,Plymouth,Pickup,1994,11044036
+Sierra 2500 HD Crew Cab,Mercedes-Benz,Van/Minivan,1999,14030663
+Tracker,Nissan,SUV,1992,5019304
+Century,Nissan,Pickup,1992,11507219
+Elantra,Volvo,SUV,2008,6110691
+Quest,Mercury,Sedan,1996,9193553
+Murcielago,Mercedes-Benz,Coupe,2019,12483884
+Frontier King Cab,Mercedes-Benz,Sedan,2013,6476088
+LX,Pontiac,Wagon,2014,11785680
+MPV,Oldsmobile,SUV,2009,10190021
+Insight,Lincoln,Pickup,2015,4259144
+SC,Ram,Sedan,2012,3449550
+Excursion,Acura,Sedan,1998,8024457
+XK,Oldsmobile,SUV,2010,11676496
+Discovery Series II,GMC,Van/Minivan,2017,5713429
+Outback,Honda,Convertible,1996,13498192
+Phantom,Buick,Hatchback,1996,751946
+Impreza,Dodge,"Sedan, Coupe, Convertible, Wagon",2016,10405849
+Elantra GT,Toyota,Sedan,2016,2830053
+Montero Sport,BMW,Van/Minivan,2003,4830268
+Quest,Mercedes-Benz,Sedan,2015,5755237
+S4,Toyota,Van/Minivan,2007,1214607
+Seville,Chevrolet,Van/Minivan,1996,11376311
+968,GMC,Sedan,2006,10616442
+Taurus,Dodge,Pickup,1996,11225394
+Ioniq Electric,Acura,Sedan,2010,8753279
+Silverado 2500 Regular Cab,Audi,Sedan,2006,12232597
+Sierra 1500 Extended Cab,Mercury,Hatchback,2003,14790887
+300,Chevrolet,SUV,2019,1390219
+Savana 3500 Passenger,GMC,"Coupe, Convertible, Sedan, Wagon",2017,11947124
+Cadenza,Land Rover,Pickup,2005,1895821
+Protege,Chevrolet,Sedan,2012,1491186
+TITAN Single Cab,Dodge,Sedan,2018,12132783
+Ranger Regular Cab,Pontiac,Van/Minivan,1997,7334651
+62,INFINITI,Coupe,2006,2613985
+X3,Pontiac,Pickup,2008,3496923
+2500 Crew Cab,Chevrolet,Sedan,2018,4875815
+Legacy,Lamborghini,Van/Minivan,1997,14965966
+Savana 2500 Passenger,Toyota,Pickup,1999,3183209
+Trans Sport,Subaru,"Sedan, Hatchback",2015,10303573
+Fusion,Toyota,"Convertible, Coupe",2016,4499613
+ATS,Chevrolet,Pickup,2019,4737417
+E150 Passenger,Subaru,Sedan,2019,14716053
+XTS,Mitsubishi,Pickup,2019,4307058
+Caravan Cargo,Audi,Sedan,2009,6111653
+GLC,Jeep,SUV,2012,8659224
+Colt,Ram,Van/Minivan,2019,4765673
+Stinger,Toyota,Pickup,2007,11644034
+B-Series Regular Cab,Alfa Romeo,"Wagon, Convertible",2008,2829198
+458 Italia,HUMMER,Hatchback,2006,12635433
+CX-5,Ford,Coupe,1992,4320646
+XK,Nissan,"Sedan, Coupe",2003,5235395
+Venza,Dodge,Sedan,1998,6436952
+Neon,Nissan,Pickup,2015,11915946
+Cruze,Toyota,Pickup,2011,11220746
+Volt,Saab,Coupe,2017,13886236
+Grand Am,Saturn,Coupe,2005,5042709
+Savana 1500 Passenger,Dodge,Van/Minivan,2011,11228563
+Tundra CrewMax,Aston Martin,"Coupe, Convertible",2012,9458367
+Elantra,Geo,Sedan,1995,14188203
+GLC Coupe,Ford,Sedan,2011,2210605
+Vandura 3500,Toyota,SUV,1996,2283857
+Accent,Nissan,Van/Minivan,2010,6452828
+NV200,Ford,SUV,2017,2651581
+Lumina Passenger,Mercury,Van/Minivan,2016,3239661
+Passat,Honda,Van/Minivan,2002,13477883
+M5,Chevrolet,Pickup,2011,10798302
+IS,Lexus,Hatchback,2000,6724759
+Ram 1500 Regular Cab,Rolls-Royce,Pickup,2019,13881926
+940,Lincoln,SUV,2020,12882124
+Accord,MAZDA,SUV,2003,2880751
+Volt,Mercedes-Benz,Sedan,2019,7454914
+Sierra 2500 HD Crew Cab,Kia,Sedan,2015,12886824
+Volt,Dodge,Coupe,1995,9423630
+J,Dodge,Sedan,1993,7475045
+Impreza,Dodge,Pickup,2001,1317442
+Silverado 2500 HD Crew Cab,Ram,Sedan,2010,9311261
+MAZDA3,Lincoln,Sedan,2013,3263226
+Forte Koup,GMC,"Coupe, Convertible",2015,4174023
+GLC,Nissan,Sedan,2020,11114213
+QX,Suzuki,Pickup,1992,824680
+Swift,Chevrolet,SUV,1995,11585696
+A8,Porsche,Van/Minivan,2007,4585699
+MKS,Lotus,Sedan,2020,4321423
+Altima,Chevrolet,SUV,1996,5548553
+Liberty,Hyundai,Pickup,1992,4940794
+RL,Chevrolet,Pickup,2005,9602566
+Ram 1500 Regular Cab,Aston Martin,Pickup,2015,12323198
+LR3,Hyundai,SUV,2000,1521961
+Express 1500 Passenger,Land Rover,Pickup,2020,9048698
+i-290 Extended Cab,Suzuki,Sedan,2014,9066750
+F250 Super Duty Crew Cab,Isuzu,SUV,2011,8699618
+Sierra 3500 HD Crew Cab,Chevrolet,Pickup,2016,12518447
+Vandura G1500,Chrysler,Wagon,2014,8979137
+Silverado 2500 Regular Cab,Lincoln,Hatchback,1994,9478832
+Quest,Chevrolet,Van/Minivan,1997,12865209
+Aveo,Mercedes-Benz,Hatchback,1992,923659
+200,Toyota,Pickup,1992,3601968
+Tundra Double Cab,Chevrolet,SUV,2003,2391898
+Transit 150 Van,GMC,Van/Minivan,2001,3221880
+Echo,Hyundai,SUV,2000,12993463
+Sidekick,Volkswagen,Sedan,2013,4023636
+Esperante,Ford,Pickup,2012,9267663
+Rally Wagon G3500,Ford,"Sedan, Wagon",1997,6201770
+Accent,Toyota,Sedan,1996,1631028
+Express 1500 Passenger,GMC,SUV,2014,9847600
+7 Series,Jeep,Sedan,2008,5150571
+3500 Regular Cab,Mercedes-Benz,Sedan,2016,3821094
+Veloster,Nissan,Sedan,2013,8870707
+Ram Van B150,Jaguar,Pickup,2013,9166727
+Nubira,Audi,Pickup,2011,8705096
+Yukon,Jaguar,Pickup,2012,3100453
+Fusion,GMC,"Coupe, Hatchback, Convertible, Sedan",2015,7903237
+Relay,Ford,Sedan,2005,3303183
+Sentra,MINI,Van/Minivan,1993,13896238
+Celica,Nissan,SUV,2014,6693090
+A4,Ford,Pickup,1997,7305781
+Murcielago,Plymouth,Pickup,1999,7553862
+Escape,GMC,Van/Minivan,2010,3845014
+Continental,MAZDA,SUV,2013,7650526
+Maxima,Jeep,Van/Minivan,2006,9056895
+Colorado Regular Cab,Audi,"Sedan, Coupe",2017,11352235
+NV2500 HD Cargo,Dodge,Pickup,2019,7357173
+Alero,Toyota,Sedan,2013,10727325
+Montero,Honda,Van/Minivan,2002,7181270
+Civic,Chevrolet,Sedan,1993,9787133
+Express 3500 Passenger,Toyota,SUV,2012,8956328
+Metris Cargo,Chevrolet,Van/Minivan,2012,3271125
+Golf R,Volkswagen,SUV,2009,4959227
+Sierra 2500 HD Crew Cab,Chevrolet,Hatchback,2019,8766770
+1500 Extended Cab,Pontiac,SUV,2006,6343214
+XK,Volvo,Sedan,2011,5566640
+S2000,Chevrolet,Pickup,1996,10813955
+2500 Mega Cab,Chevrolet,Sedan,2001,4943779
+Sunfire,Plymouth,Convertible,2005,1010344
+Insight,Dodge,Convertible,2000,9006355
+A6,Toyota,"Coupe, Convertible",2005,4730377
+GLE,Jeep,SUV,2004,1374089
+Sierra 3500 HD Regular Cab,Chevrolet,Hatchback,2004,14582901
+Villager,Mitsubishi,Coupe,2020,3817430
+F350 Super Duty Crew Cab,GMC,Sedan,2019,2107556
+Silverado 3500 HD Crew Cab,Chevrolet,Sedan,2009,7206613
+Corolla,Subaru,Van/Minivan,2011,5690806
+Suburban 1500,Honda,Pickup,2018,2563738
+Q3,Honda,Coupe,2009,11093896
+Durango,Audi,Sedan,1998,6917324
+Camaro,Chrysler,Convertible,2013,5002908
+TrailBlazer,Dodge,Pickup,2008,2920584
+Rodeo,Cadillac,SUV,2013,9562675
+LeBaron,Dodge,Van/Minivan,2006,7144102
+A7,Mercedes-Benz,SUV,2010,13718284
+Tundra Double Cab,Audi,Van/Minivan,2012,6195014
+Forte,Toyota,Coupe,2018,8602802
+CC,GMC,SUV,1997,13126497
+Sunbird,Honda,Pickup,2005,10541374
+DeVille,BMW,SUV,1997,12671089
+Silverado 2500 HD Crew Cab,Buick,SUV,1999,2747862
+Pilot,Ford,"Sedan, Coupe",2020,2666018
+Silverado 1500 Crew Cab,Dodge,SUV,1998,11440074
+2500 HD Extended Cab,Cadillac,Van/Minivan,2012,5821226
+Camry,Cadillac,"Sedan, Convertible, Coupe",1992,4364970
+ES,Ford,Sedan,2019,7132098
+Insight,Dodge,SUV,2018,10382611
+CX-3,MAZDA,SUV,2005,4492420
+Ghibli,MAZDA,Pickup,2012,12456414
+Express 3500 Cargo,Mercedes-Benz,"Sedan, Coupe, Wagon",2003,12188997
+Leganza,Ford,Van/Minivan,2012,3542615
+Corvette,GMC,SUV,2019,2461798
+E-Class,Dodge,Pickup,2010,3948935
+Mercedes-AMG GT,Ford,Pickup,2014,2314178
+Yaris,Chevrolet,"Sedan, Coupe, Wagon",2016,7409030
+e-Golf,Dodge,Sedan,2002,9307969
+Mountaineer,GMC,"Coupe, Sedan, Wagon",2005,12391240
+Focus ST,Ford,SUV,1992,11559995
+A4,Land Rover,SUV,2016,4150407
+Dakota Club Cab,Cadillac,Coupe,2005,7907390
+Sierra 1500 Extended Cab,Chevrolet,Van/Minivan,2011,14238972
+Veracruz,Land Rover,SUV,1996,4754330
+Spirit,Land Rover,Pickup,2015,5299660
+MX-5 Miata,Scion,SUV,2003,9169165
+Transit 150 Van,Chevrolet,Pickup,2008,13958537
+F250 Super Duty Crew Cab,MAZDA,Coupe,2017,5458548
+Mark VIII,Ford,Van/Minivan,2004,2167532
+Rogue,INFINITI,SUV,2018,3512750
+MPV,Chevrolet,Pickup,2007,10788080
+LeSabre,Ford,Pickup,2014,1098133
+6 Series,Dodge,Coupe,2010,12953791
+Grand Cherokee,Dodge,SUV,1997,12405228
+XJ,Kia,"Sedan, Coupe, Hatchback",1993,7601262
+Silverado 2500 HD Extended Cab,Nissan,Sedan,2001,7760150
+Canyon Crew Cab,Lexus,Pickup,2008,12451694
+Supra,Oldsmobile,Van/Minivan,2018,10267382
+Civic,Dodge,Coupe,2005,6297943
+458 Speciale,Mitsubishi,SUV,2001,12326014
+Forester,Chevrolet,Sedan,2002,10147279
+Astro Cargo,Mercedes-Benz,Wagon,2018,12149709
+Ram 2500 Quad Cab,Audi,SUV,2020,2810442
+GTC4Lusso,Ford,Van/Minivan,2020,5113180
+Canyon Regular Cab,Land Rover,"Coupe, Convertible",2017,8761769
+SLK-Class,Chevrolet,SUV,2003,11177787
+GranSport,Buick,"Coupe, Convertible",2018,1663395
+SLK-Class,Nissan,Convertible,1993,1088596
+Lumina,Dodge,SUV,2009,3548340
+Golf R,GMC,SUV,2001,6367996
+Mercedes-Maybach S-Class,Toyota,Sedan,2019,5158492
+Ram 1500 Regular Cab,Ford,Van/Minivan,2012,10816049
+Cruze,Porsche,"Sedan, Wagon",1995,6447089
+Murcielago,Chevrolet,SUV,1993,12543053
+Alero,Volkswagen,"Sedan, Wagon, Coupe",2016,12518486
+XC90,BMW,Van/Minivan,2014,12289171
+PT Cruiser,Mitsubishi,Sedan,2000,1480773
+Silverado 3500 Crew Cab,Mercedes-Benz,Sedan,1999,7277472
+DB9,MAZDA,SUV,1996,14780994
+Savana 2500 Passenger,Lincoln,Coupe,2010,3638848
+Durango,Mercedes-Benz,"Sedan, Wagon",1992,815055
+H1,Chevrolet,Pickup,1996,4667721
+F150 Regular Cab,Lexus,Hatchback,2010,2937875
+Bonneville,Chevrolet,Sedan,2014,8704876
+NV200 Taxi,Chevrolet,Sedan,2006,12070120
+Escort,Lexus,SUV,2000,11323222
+300 CE,Jaguar,"Convertible, Coupe",1998,13446925
+Mystique,BMW,Van/Minivan,2007,8540768
+MDX,Nissan,"Coupe, Wagon, Sedan",2006,3918501
+LeBaron,BMW,Sedan,1997,6166025
+Ram Van 2500,BMW,Pickup,2001,13103424
+King Cab,Subaru,Pickup,2006,13061910
+1500 Crew Cab,Toyota,"Sedan, Wagon",2000,2931048
+Mercedes-AMG GT,Jeep,Sedan,2001,5613597
+Soul,Chevrolet,SUV,2012,13871998
+Range Rover Evoque,Oldsmobile,Sedan,2013,3904225
+Tacoma Xtracab,Chrysler,Hatchback,2012,14562426
+Outback,Chevrolet,Coupe,2002,12928915
+Vandura G3500,Chevrolet,"Coupe, Convertible",2012,14775667
+Civic,Pontiac,"Sedan, Coupe",2008,14641983
+Sephia,Chrysler,SUV,1999,5609644
+Silverado 1500 Regular Cab,Cadillac,Van/Minivan,2009,14222632
+Beetle,Plymouth,Wagon,2005,3729969
+K900,Mitsubishi,Sedan,1997,12239048
+4 Series,Nissan,Pickup,2011,12668365
+Mighty Max Macro Cab,Acura,"Convertible, Coupe, Hatchback",2005,14170743
+Murcielago,Kia,"Coupe, Convertible",1994,9666243
+Tahoe,Volvo,Pickup,2003,1680789
+Civic,Nissan,Coupe,2007,12309753
+Encore,Acura,SUV,2016,5441056
+GL-Class,Maserati,Convertible,2006,5214765
+Econoline E250 Cargo,Bentley,Van/Minivan,1998,4351820
+Altima,Cadillac,Pickup,1994,5141652
+CTS-V,Toyota,SUV,2008,2001579
+Ram 2500 Quad Cab,Saturn,"Coupe, Sedan, Wagon",2010,11179736
+Range Rover Sport,Jeep,SUV,2007,11990973
+Tucson Fuel Cell,Cadillac,Sedan,2001,11488930
+A8,INFINITI,"Coupe, Sedan",2017,6124805
+F250 Super Duty Crew Cab,Land Rover,Van/Minivan,2001,10138364
+S-Type,BMW,SUV,2004,12210940
+S2000,Freightliner,SUV,1999,7141016
+Vibe,Ford,Van/Minivan,2007,12163169
+57,Alfa Romeo,SUV,1994,9773568
+G,Chrysler,Sedan,1997,7811698
+Optima,GMC,SUV,2009,4778355
+Corsica,Chevrolet,SUV,2009,6259996
+Express 2500 Passenger,Hyundai,Convertible,1998,7582133
+Crown Victoria,BMW,Convertible,2001,6218943
+F-TYPE,Dodge,Wagon,2004,3608750
+Ram Wagon 2500,Volvo,Van/Minivan,2006,9360769
+King Cab,Porsche,Coupe,2001,8127933
+S60,Audi,Van/Minivan,2020,10273843
+Telluride,Mercury,SUV,2004,13749541
+X5,Dodge,Pickup,2002,5416488
+GranTurismo,Chevrolet,SUV,2015,4176034
+Impala,Scion,Pickup,1992,3522771
+Expedition MAX,Hyundai,SUV,2008,5035639
+Crown Victoria,GMC,Coupe,2007,8265643
+Explorer Sport Trac,Bentley,SUV,1999,8499815
+Corolla,Pontiac,Pickup,2010,14754421
+98,Plymouth,Pickup,2004,958497
+XTS,Hyundai,Hatchback,2001,10908728
+Maxima,Toyota,SUV,2008,12591768
+GX,Plymouth,Pickup,2006,2885383
+H1,Ford,Sedan,2018,2093906
+i-370 Extended Cab,Audi,Coupe,2009,5300226
+Ranger Super Cab,INFINITI,"Coupe, Sedan",2008,9107386
+A8,Land Rover,Sedan,2018,7669825
+IS,FIAT,Sedan,1992,9231205
+Convertible,Lexus,SUV,1999,8138269
+Supra,GMC,"Convertible, Coupe",2004,8148483
+S7,Porsche,Pickup,2014,5161283
+2500 Regular Cab,Lexus,Coupe,2012,10234351
+F430,Mitsubishi,"Sedan, Wagon",2014,2206707
+R-Class,Nissan,SUV,2009,6153347
+Sunfire,Acura,Van/Minivan,2010,3006126
+500,Chevrolet,"Sedan, Wagon",1998,13689545
+Silverado 2500 HD Extended Cab,Mercedes-Benz,Sedan,2012,987400
+Forte Koup,Nissan,Coupe,2016,1993724
+F350 Super Duty Crew Cab,Kia,Sedan,2017,10053043
+Civic Type R,Toyota,SUV,1994,1245715
+Quest,Acura,"Sedan, Convertible, Coupe, Wagon",2011,4141901
+R8,Plymouth,Pickup,1996,4351179
+Corvette,Jaguar,Van/Minivan,2018,9695932
+Vigor,Chevrolet,Van/Minivan,2000,10776617
+I,Honda,Pickup,2012,972117
+Outback,Aston Martin,Pickup,2003,13064913
+Malibu,Chevrolet,Van/Minivan,2008,11401101
+Touareg 2,Volkswagen,Pickup,2019,9278925
+968,Ford,Van/Minivan,2016,2411948
+2500 Mega Cab,Mercedes-Benz,Coupe,1996,7978032
+Entourage,Toyota,Pickup,2006,8525131
+Savana 3500 Passenger,Jeep,Coupe,2012,11397281
+Mustang,Honda,Sedan,1996,1864095
+200,Chevrolet,Hatchback,2008,1142859
+Regular Cab,Toyota,Sedan,2009,12481393
+Sierra 3500 HD Regular Cab,Honda,"Sedan, Coupe",2020,1419146
+Santa Fe,Ford,Hatchback,2006,8781932
+Highlander,Dodge,Pickup,2005,10324023
+Passat,GMC,Pickup,2016,14997085
+Cayenne,Nissan,Hatchback,2006,6988046
+Econoline E250 Cargo,GMC,"Coupe, Sedan, Wagon, Convertible",2009,13898081
+Fox,Dodge,"Coupe, Convertible",2012,9328169
+G-Class,Toyota,Pickup,2002,10657962
+Sprinter 2500 Cargo,INFINITI,"Coupe, Convertible, Sedan",1994,1521818
+Regal,GMC,Pickup,2015,6615535
+Mercedes-Maybach S-Class,Ford,SUV,2000,9850567
+F150 Super Cab,Toyota,Pickup,2019,1341676
+Pathfinder Armada,Audi,"Coupe, Sedan",2002,4728257
+Town & Country,Nissan,Coupe,2002,5691070
+9-7X,Kia,Sedan,2019,4790807
+RDX,Volvo,Pickup,2017,1854935
+Edge,Honda,Sedan,2000,10243820
+LSS,Toyota,SUV,2002,12662625
+Canyon Extended Cab,Chrysler,Van/Minivan,2008,9658323
+Sable,Dodge,SUV,1998,14131382
+RAV4,Toyota,Van/Minivan,2018,1887923
+Amigo,Land Rover,Hatchback,2003,14008534
+Savana 3500 Passenger,Mercury,Pickup,2005,7353078
+Integra,Mercury,Sedan,2015,8917832
+Golf,Nissan,Van/Minivan,2010,14986896
+GranTurismo,Toyota,Hatchback,1992,11533205
+Montana,Ford,Sedan,1996,7829675
+LaCrosse,Kia,"Sedan, Hatchback",2018,14441083
+Z4,Aston Martin,SUV,2012,10173561
+Ram 2500 Club Cab,Ferrari,Pickup,2002,12828819
+Expedition,Volvo,SUV,1998,8820084
+Rally Wagon G3500,Chevrolet,SUV,2017,13226671
+Sonic,MAZDA,Van/Minivan,2005,6712421
+Tracker,Lexus,SUV,2000,2189224
+Neon,Dodge,Sedan,2002,7527407
+Intrepid,Toyota,SUV,2013,11373302
+Canyon Regular Cab,Hyundai,"Sedan, Coupe",2018,11797616
+RX-8,Mercedes-Benz,SUV,2014,1011406
+E350 Super Duty Passenger,Lexus,"Coupe, Sedan, Hatchback",1992,12987532
+Express 3500 Passenger,Chevrolet,Pickup,2016,5135908
+5 Series,Hyundai,Van/Minivan,2011,12665284
+Escalade EXT,Chevrolet,Wagon,2005,7526220
+Hombre Spacecab,Kia,SUV,2010,14595783
+Contour,Ferrari,"Sedan, Wagon",2010,13551663
+CC,Ford,"Sedan, Wagon",2011,12365705
+500e,Aston Martin,"Wagon, Sedan",1997,8661257
+Transit Connect Passenger,Audi,Wagon,2017,9853300
+F350 Super Duty Regular Cab,MINI,"Sedan, Wagon",1993,5371533
+M-Class,Honda,Sedan,1997,5850658
+5-Sep,Nissan,Sedan,1992,1881017
+GL-Class,Kia,Pickup,2002,10404776
+Aviator,Acura,Pickup,1993,6790854
+GLI,GMC,Sedan,2017,12666280
+Jetta,Chevrolet,SUV,2003,9250190
+Highlander,Nissan,Van/Minivan,2006,8240762
+Pacifica Hybrid,Buick,Sedan,2010,4408097
+F250 Super Duty Crew Cab,Dodge,SUV,2002,10482169
+M,Hyundai,Wagon,2008,7583065
+IS,Ford,"Coupe, Sedan, Convertible",2015,14261126
+Avalanche,GMC,Pickup,2020,14400895
+F150 SuperCrew Cab,Chevrolet,Sedan,2000,9482089
+M-Class,Ford,Pickup,1996,9731653
+F250 Super Duty Crew Cab,Toyota,Pickup,2006,10459282
+Silverado (Classic) 3500 Crew Cab,Mercedes-Benz,SUV,2017,10488614
+Avalon,Dodge,Wagon,1999,7128556
+Escalade,Honda,SUV,2010,9939572
+Element,Tesla,SUV,1992,14956900
+XTS,Honda,Van/Minivan,2015,14858225
+Forenza,Jaguar,Sedan,2016,10864795
+Grand Caravan Passenger,Buick,Coupe,2009,1866342
+Impreza,GMC,Van/Minivan,2019,13056296
+Traverse,Mercedes-Benz,Sedan,1998,2122666
+Odyssey,Isuzu,SUV,1993,13183880
+Silverado 1500 Double Cab,Lexus,Sedan,2007,14608332
+Stratus,Lexus,Coupe,2015,8972217
+Sierra 1500 Crew Cab,Toyota,Sedan,2009,9993805
+Charger,Audi,"Sedan, Convertible, Coupe",2008,12672968
+Focus ST,Lincoln,SUV,1998,13829370
+Macan,Nissan,SUV,1997,12256388
+V70,INFINITI,Van/Minivan,1993,4091681
+Grand Prix,Dodge,Pickup,2017,1063877
+E350 Super Duty Cargo,Cadillac,Sedan,2020,13548063
+LR4,Chevrolet,Sedan,2017,12831178
+Rally Wagon 3500,Chevrolet,Hatchback,1995,12968329
+F150 Super Cab,MINI,"Coupe, Convertible",1994,9788281
+GranTurismo,Suzuki,SUV,2001,13734559
+CTS-V,Pontiac,SUV,2016,14342600
+Sienna,INFINITI,"Coupe, Convertible",2015,12645771
+Transit Connect Passenger,Ford,SUV,2019,10543733
+Blazer,Land Rover,Sedan,2020,4320657
+Econoline E350 Super Duty Cargo,Volkswagen,Van/Minivan,2011,3646312
+Mercedes-AMG GLC,Suzuki,Sedan,1999,6070414
+Expedition EL,Ford,Van/Minivan,2002,6113861
+Prelude,BMW,SUV,2002,2951979
+F250 Super Duty Crew Cab,Porsche,"Hatchback, Sedan",2014,11485574
+Legacy,Hyundai,SUV,2004,3308498
+M,Toyota,SUV,1999,1931031
+Outback,Lincoln,Van/Minivan,2000,7459348
+911,Lotus,Sedan,2016,6478428
+Elantra,Dodge,Sedan,2007,2680530
+Aspen,Toyota,Convertible,2004,1903405
+Escalade EXT,Cadillac,Convertible,2003,9832353
+Golf GTI,Mercedes-Benz,"Hatchback, Sedan",2019,11530391
+F150 Regular Cab,Porsche,Sedan,2013,8951804
+ProMaster 3500 Cargo,Audi,SUV,1999,8595286
+Escalade,Hyundai,Van/Minivan,1999,10479636
+Firebird,Dodge,Convertible,2006,14860097
+Summit,Kia,"Convertible, Coupe",2012,7975120
+Talon,Ford,SUV,2007,2022258
+Silverado 3500 HD Crew Cab,Ford,Pickup,2013,779058
+Aerio,Mercedes-Benz,Sedan,2015,10638379
+Passat,Saab,Convertible,2017,2940727
+GranTurismo,Toyota,"Sedan, Coupe",2018,12739556
+Bolt EV,GMC,SUV,2013,11684882
+Malibu,Honda,Van/Minivan,2003,12807586
+Ridgeline,Chevrolet,SUV,1996,7952559
+Cougar,BMW,SUV,2015,3458422
+Ghost,Chrysler,Pickup,2006,9334861
+STS,Ram,Sedan,2017,14565836
+GT-R,Honda,Pickup,1992,1124403
+Suburban 1500,Chrysler,Pickup,2000,9622835
+Q5,Mitsubishi,Van/Minivan,2006,3737251
+F150 (Heritage) Regular Cab,Ford,Van/Minivan,2010,4005565
+Avalon,Dodge,Sedan,2007,9364680
+TrailBlazer,Ford,Coupe,2016,10743462
+Savana 1500 Cargo,BMW,Pickup,2020,4566837
+Titan Crew Cab,BMW,SUV,2016,13852347
+Voyager,GMC,SUV,2003,9088884
+Ion,BMW,Hatchback,1994,10401726
+3500 Crew Cab,Nissan,SUV,2013,10831289
+Silverado 3500 HD Regular Cab,Buick,"Sedan, Coupe",1994,10115845
+Countryman,Suzuki,Coupe,2004,14612765
+Rapide,Nissan,Sedan,1993,1926986
+Spectra,Acura,SUV,2015,9121559
+Astro Cargo,Land Rover,Pickup,2013,14116852
+Vantage,smart,SUV,2018,5484742
+ZDX,Nissan,Pickup,2011,10662917
+MKT,Toyota,Pickup,2004,14969182
+Grand Marquis,Suzuki,Sedan,2005,12827338
+V70,GMC,Pickup,2004,9379234
+Sierra 2500 HD Extended Cab,Dodge,SUV,2008,14872221
+SSR,Chevrolet,"Coupe, Hatchback, Convertible",2008,9124845
+RS 3,Aston Martin,Sedan,1999,5285694
+Dakota Quad Cab,Toyota,"Sedan, Wagon",2006,3202513
+Uplander Passenger,Dodge,Pickup,1999,4605652
+Safari Passenger,Toyota,SUV,2000,14190903
+Continental,Jaguar,SUV,2007,12367329
+4Runner,Mitsubishi,Pickup,1999,12713129
+Caravan Passenger,Acura,SUV,2002,9872688
+3500 Regular Cab,Dodge,Pickup,1995,9213656
+Fiesta,Audi,"Sedan, Coupe",2010,9042063
+Transit Connect Passenger,Plymouth,Sedan,2004,1467880
+Sundance,Mercedes-Benz,SUV,2008,14888673
+Escalade ESV,Chrysler,"Hatchback, Sedan",2004,10220591
+Nitro,MAZDA,"Sedan, Coupe",2015,14493349
+Viper,Dodge,Coupe,1995,13342102
+Volt,Kia,Van/Minivan,2004,11523112
+Grand Marquis,Audi,Pickup,2016,9422491
+Astro Cargo,Aston Martin,Van/Minivan,2007,773036
+X6 M,GMC,Van/Minivan,2011,5379353
+Mercedes-AMG GT,Chevrolet,Pickup,1999,14280116
+4Runner,Mercedes-Benz,"Hatchback, Convertible",1994,12897152
+Optima,Ford,Pickup,2003,10301291
+CTS,Chevrolet,SUV,2019,8010087
+ILX,Toyota,SUV,2004,6079140
+Encore,Pontiac,"Sedan, Coupe, Wagon",1994,14993723
+Express 3500 Cargo,Audi,Hatchback,1995,5099608
+Camry,Chevrolet,Coupe,2007,2576738
+Sierra 3500 HD Extended Cab,Lincoln,Sedan,1997,6098481
+F250 Super Duty Regular Cab,Chevrolet,Hatchback,2007,10978933
+F450 Super Duty Crew Cab,Chevrolet,SUV,2016,1412943
+XT5,Chevrolet,SUV,2012,4492783
+S3,Ford,SUV,2009,1014322
+Dakota Club Cab,Porsche,Pickup,1993,1656577
+GranTurismo,BMW,Hatchback,2014,10494353
+Hardtop 4 Door,Buick,SUV,1998,9090067
+GTI,Ford,Sedan,2017,2733565
+Express 2500 Cargo,INFINITI,Pickup,1997,14746202
+Mountaineer,Lamborghini,Pickup,1998,13977727
+V40,Suzuki,"Sedan, Wagon",2012,4590098
+QX50,Freightliner,Hatchback,2015,1437628
+2500 HD Club Coupe,Ford,Coupe,2000,14665891
+Z3,Buick,Van/Minivan,2003,2464301
+Tiguan,Mercedes-Benz,"Sedan, Wagon",2014,7014128
+Frontier Crew Cab,Porsche,Pickup,2016,13123229
+GTI (New),Ford,"Convertible, Coupe",2016,7554973
+Sierra 3500 HD Double Cab,Mercedes-Benz,Van/Minivan,2016,10038546
+3500 Regular Cab,Volkswagen,Pickup,1994,12024849
+Phantom,Ram,Sedan,2016,8482056
+M-Class,Mercedes-Benz,"Coupe, Convertible",1997,854173
+Golf R,Audi,Sedan,2006,14752542
+Ghost,Chrysler,Coupe,2020,13299229
+RAV4,Toyota,Van/Minivan,1999,2847977
+Wrangler,GMC,Hatchback,1994,1256119
+Odyssey,Acura,"Sedan, Convertible",2018,5447835
+911,Chevrolet,SUV,1992,1330007
+Sephia,Lincoln,Van/Minivan,2003,6401302
+Yukon XL 1500,Dodge,Van/Minivan,1994,8487673
+SRX,Ford,Pickup,1996,1676682
+Legend,GMC,Pickup,2004,3198138
+Convertible,Chevrolet,"Coupe, Convertible",2015,13953017
+Sierra 3500 Crew Cab,Lexus,SUV,2005,11133895
+TLX,BMW,Van/Minivan,1997,4199369
+Sonoma Crew Cab,Chevrolet,Wagon,1994,3232686
+Santa Fe,Ford,"Sedan, Coupe, Convertible",2016,1068565
+F150 Regular Cab,Ford,SUV,2020,5375302
+Corvette,Kia,"Convertible, Coupe",2008,8490411
+F150 SuperCrew Cab,Toyota,Sedan,1994,4124390
+Odyssey,Lexus,SUV,2011,10178235
+Golf SportWagen,Toyota,SUV,2016,6576996
+Rally Wagon 3500,Toyota,Sedan,2019,7106696
+SLR McLaren,Lincoln,Van/Minivan,2017,5175250
+Spacecab,Jaguar,"Sedan, Wagon",1994,7968421
+tC,Mitsubishi,Hatchback,2012,12478531
+Prius,GMC,Sedan,2010,2481696
+Fox,Isuzu,Van/Minivan,2008,12738729
+Regal,Nissan,Van/Minivan,2018,1234914
+ATS-V,Jeep,"Coupe, Sedan",2016,2126602
+F250 Super Duty Regular Cab,Cadillac,"Sedan, Hatchback",2004,6592823
+Xterra,Jeep,Sedan,2000,11768711
+Captiva Sport,Chevrolet,Van/Minivan,2002,1719621
+fortwo electric drive,Kia,SUV,2016,12005026
+Stealth,Jaguar,Van/Minivan,2016,3789444
+F150 SuperCrew Cab,Nissan,Sedan,2006,10001271
+57,Ford,SUV,2006,2614402
+Sierra 2500 Regular Cab,GMC,"Sedan, Hatchback",2001,1133277
+Matrix,Toyota,"Sedan, Hatchback",2003,8064635
