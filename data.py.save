@@ -1,0 +1,8 @@
+import csv
+from faker import Faker
+
+from faker_vehicle import VehicleProvider
+
+fake=Faker('en_IN')
+
+ou
